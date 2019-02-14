@@ -3,7 +3,7 @@ The motion of an asteroid in a two-dimensional space with a star and a planet �
 
 The statement of the problem is in `problem.pdf`, the solution of all points is explained in the document `Antonio_Norelli_solution.pdf`. The code used is `three-body-problem.c`
 
-## Running the program 
+## Running the program (italian)
 Il programma chiede di specificare il punto dell’esonero che si vuole svolgere attraverso il canale standard di input. 
 In questo modo vengono settate le corrette condizioni iniziali. Per particolari punti si dovrà specificare anche MB. Ѐ possibile anche scegliere condizioni iniziali a piacere.
 Viene chiesto inoltre di specificare il dt e il tempo totale di integrazione. 
@@ -14,4 +14,9 @@ due punti consecutivi sul file.
 I file di output sono nominati “ANpto%.txt” dove al posto di % c’è il particolare punto dell’esonero o lo
 0 se si sono settate condizioni iniziali a piacere.
 
-$\frac{7}{u \per v}$
+## Examples of trajectories
+
+![hexagon](https://raw.githubusercontent.com/noranta4/Three-body-problem/master/img/hexagon.PNG)
+![curls](https://raw.githubusercontent.com/noranta4/Three-body-problem/master/img/curls.PNG)
+![strange](https://raw.githubusercontent.com/noranta4/Three-body-problem/master/img/strange.PNG)
+![horseshoe](https://raw.githubusercontent.com/noranta4/Three-body-problem/master/img/horseshoe.PNG)
