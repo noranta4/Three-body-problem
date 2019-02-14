@@ -1,5 +1,5 @@
 # Three-body-problem
-The motion of an asteroid in a two-dimensional space with a star and a planet
+The motion of an asteroid in a two-dimensional space with a star and a planet.
 
 University project • 2014 - Laboratorio di Fisica Computazionale - BSc in Physics, II year
 
