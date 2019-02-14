@@ -6,7 +6,7 @@ University project • 2014 - Laboratorio di Fisica Computazionale - BSc in Phys
 The statement of the problem is in `problem.pdf`, the solution of all points is explained in the document `Antonio_Norelli_solution.pdf`. The code used is `three-body-problem.c`
 
 ## Running the program (italian)
-Il programma chiede di specificare il punto dell’esonero che si vuole svolgere attraverso il canale standard di input. 
+Il programma chiede di specificare il punto del problema che si vuole svolgere attraverso il canale standard di input. 
 In questo modo vengono settate le corrette condizioni iniziali. Per particolari punti si dovrà specificare anche MB. Ѐ possibile anche scegliere condizioni iniziali a piacere.
 Viene chiesto inoltre di specificare il dt e il tempo totale di integrazione. 
 Il programma stampa su file sempre lo stesso numero di punti (~10000) affinché il file di output non superi 1MB, 
