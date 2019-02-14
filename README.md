@@ -1,5 +1,7 @@
 # Three-body-problem
-The motion of an asteroid in a two-dimensional space with a star and a planet • University project • 2014 - Laboratorio di Fisica Computazionale - BSc in Physics, II year
+The motion of an asteroid in a two-dimensional space with a star and a planet
+
+University project • 2014 - Laboratorio di Fisica Computazionale - BSc in Physics, II year
 
 The statement of the problem is in `problem.pdf`, the solution of all points is explained in the document `Antonio_Norelli_solution.pdf`. The code used is `three-body-problem.c`
 
