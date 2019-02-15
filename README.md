@@ -1,5 +1,6 @@
 # Three-body-problem
 The motion of an asteroid in a two-dimensional space with a star and a planet.
+Application of Runge-Kutta methods to find approximate solutions of equations of motion.
 
 University project • 2014 - Laboratorio di Fisica Computazionale - BSc in Physics, II year
 
@@ -16,7 +17,7 @@ due punti consecutivi sul file.
 I file di output sono nominati “ANpto%.txt” dove al posto di % c’è il particolare punto dell’esonero o lo
 0 se si sono settate condizioni iniziali a piacere.
 
-## Examples of trajectories
+## Examples of asteroid trajectories
 
 ![hexagon](https://raw.githubusercontent.com/noranta4/Three-body-problem/master/img/hexagon.PNG)
 ![curls](https://raw.githubusercontent.com/noranta4/Three-body-problem/master/img/curls.PNG)
