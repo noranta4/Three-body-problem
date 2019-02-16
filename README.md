@@ -1,4 +1,4 @@
-# Three-body-problem
+# Three body problem
 The motion of an asteroid in a two-dimensional space with a star and a planet.
 Application of Runge-Kutta methods to find approximate solutions of equations of motion.
 
