@@ -1,6 +1,6 @@
 # Three body problem
 The motion of an asteroid in a two-dimensional space with a star and a planet.
-Application of Runge-Kutta methods to find approximate solutions of equations of motion.
+Application of Runge-Kutta methods to find approximate solutions of the equations of motion.
 
 University project • 2014 - Laboratorio di Fisica Computazionale - BSc in Physics, II year
 
