@@ -3,6 +3,7 @@ The motion of an asteroid in a two-dimensional space with a star and a planet.
 Application of Runge-Kutta methods to find approximate solutions of the equations of motion.
 
 Homework of Laboratorio di Fisica Computazionale, prof. Federico Ricci Tersenghi.
+
 University project • 2014 - Laboratorio di Fisica Computazionale - BSc in Physics, II year
 
 The statement of the problem is in `problem.pdf`, the solution of all points is explained in the document `Antonio_Norelli_solution.pdf`. The code used is `three-body-problem.c`
