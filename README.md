@@ -6,7 +6,7 @@ Homework of Laboratorio di Fisica Computazionale, prof. Federico Ricci Tersenghi
 
 University project • 2014 - Laboratorio di Fisica Computazionale - BSc in Physics, II year
 
-The statement of the problem is in `problem.pdf`, the solution of all points is explained in the document `Antonio_Norelli_solution.pdf`. The code used is `three-body-problem.c`
+The statement of the problem is in `problem.pdf`, the solution of all points is explained in the document `Antonio_Norelli_solution.pdf`, I strongly suggest you read it to understand the solution code. The code used is `three-body-problem.c`
 
 ## Running the program (italian)
 Il programma chiede di specificare il punto del problema che si vuole svolgere attraverso il canale standard di input. 
